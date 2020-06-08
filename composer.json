@@ -1,10 +1,10 @@
 {
-    "name": "socialiteproviders/discord",
+    "name": "jgrancell/socialiteproviderdiscord",
     "description": "Discord OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "Christopher Eklund",
-        "email": "eklundchristopher@gmail.com"
+        "name": "Josh Grancell",
+        "email": "josh@joshgrancell.com"
     }],
     "require": {
         "php": "^5.6 || ^7.0",
